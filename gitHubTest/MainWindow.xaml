@@ -19,7 +19,7 @@
             <ColumnDefinition Width="*" />
         </Grid.ColumnDefinitions>
 
-        <TextBlock TextAlignment="Center" FontSize="20" Text="workiwork" Width="100" Height="50" Grid.Column="1" Grid.Row="1"/>
-        <TextBlock TextAlignment="Center" FontSize="20" Text="testitest" Width="100" Height="50" Grid.Column="1" Grid.Row="2"/>
+        <TextBlock TextAlignment="Center" FontSize="20" Text="testitest" Width="100" Height="50" Grid.Column="1" Grid.Row="1"/>
+        <TextBlock TextAlignment="Center" FontSize="20" Text="work plz" Width="100" Height="50" Grid.Column="1" Grid.Row="2"/>
     </Grid>
 </Window>
